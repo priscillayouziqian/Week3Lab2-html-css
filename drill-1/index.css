@@ -1,0 +1,33 @@
+.div-top{
+    height: 20vh;
+    background-color: rgb(72, 71, 71);
+    position: sticky;
+    top: 0px;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.div-left, .div-right{
+    height: 100vh;
+    width: 20%;
+    background-color: antiquewhite;
+
+}
+
+.div-middle{
+    width: 60%;
+    background-color: aqua;
+}
+
+main{
+    background-color: aliceblue;
+    height: 90%;
+}
+
+footer{
+    background-color: black;
+    height: 10%;
+}
